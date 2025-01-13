@@ -1,0 +1,15 @@
+venv
+__pycache__
+*.pyc
+/*/*/timetable.json
+test.py
+timetable.html
+erpcreds_local.py
+/*/*/choices.json
+/*/*/labs.json
+/*/*/timetable.html
+/*/*/lab_choices.json
+/*/*/room.json
+app.py
+results
+session.txt
